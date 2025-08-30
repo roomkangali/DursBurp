@@ -3,9 +3,10 @@
 DursBurp is a Burp Suite extension that integrates the power of large language models (LLMs) from OpenAI, Google Gemini, and Groq to assist in security analysis. With DursBurp, you can send HTTP request/response pairs directly to an AI for in-depth vulnerability analysis, all within the Burp Suite interface.
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/45521655/483865098-c23e506d-15ef-4d9e-8690-4f40dc562831.png" width="720">
+  <img src="images/dursburp-logo.png" width="720">
 </p>
 
+---
 ## Features
 
 - **On-Demand Analysis**: Analyzes only the requests you choose, giving you full control.
@@ -25,6 +26,12 @@ DursBurp works as an intelligent security assistant, not an automated scanner.
 4.  **AI Analysis**: The completed prompt is sent to your configured AI service (OpenAI, Gemini, or Groq).
 5.  **Report Generation**: The AI analyzes the full context of the request and response and generates a structured vulnerability report.
 6.  **View Results**: The report is parsed and displayed cleanly in the results panel within the "DursBurp" tab, ready for your review.
+
+---
+<video src="https://private-user-images.githubusercontent.com/45521655/483877306-9c5832ce-f4d5-4699-8c65-ce28e1f315da.mp4" width="600" controls>
+  Your browser does not support the video tag.
+</video>
+---
 
 ## Installation
 
