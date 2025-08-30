@@ -1,4 +1,4 @@
-# DursBurp - AI-Powered Analysis for Burp Suite
+# DursBurp - AI Extension for Burp Suite
 
 DursBurp is a Burp Suite extension that integrates the power of large language models (LLMs) from OpenAI, Google Gemini, and Groq to assist in security analysis. With DursBurp, you can send HTTP request/response pairs directly to an AI for in-depth vulnerability analysis, all within the Burp Suite interface.
 
